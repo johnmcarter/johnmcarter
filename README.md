@@ -3,7 +3,7 @@
 ##### I'm currently a PhD student researching topics at the intersection of machine learning and cybersecurity at Drexel University.
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,raspberrypi,selenium,c,cpp,postgres,js,jquery,django,html,css,bootstrap,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,raspberrypi,bash,aws,selenium,c,cpp,postgres,js,jquery,django,html,css,bootstrap,flask)](https://skillicons.dev)
 
 
 # Top Languages
