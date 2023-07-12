@@ -2,7 +2,7 @@
 
 ##### I'm currently a PhD student researching topics at the intersection of machine learning and cybersecurity at Drexel University.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcarter)](https://github.com/johnmcarter/github-readme-stats)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmcarter&show_icons=true&theme=radical)
 
 <!--
 **johnmcarter/johnmcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
